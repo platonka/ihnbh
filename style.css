@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+    background-color: peru;
+    font-size: 20px;
+}
+
+header{
+background-color: blue;
+color: white;
+} 
+header a{
+color:white;
+}
+
+h1{
+    background-color: white ;
+    color:orange;
+    border-radius: 10px solid purple;
+    text-align: center;
+}
+
+footer p{
+    background-color: chartreuse;
+}
+
+nav{
+    background-color: darkgreen;
+    padding: 10px;
+}
+nav a{
+    color: white;
+}
+
+main h2{
+    color: green;
+}
